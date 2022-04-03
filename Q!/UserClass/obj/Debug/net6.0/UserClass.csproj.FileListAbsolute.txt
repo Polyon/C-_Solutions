@@ -1,0 +1,15 @@
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/UserClass
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/UserClass.deps.json
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/UserClass.runtimeconfig.json
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/UserClass.dll
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/ref/UserClass.dll
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/bin/Debug/net6.0/UserClass.pdb
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.csproj.AssemblyReference.cache
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.AssemblyInfoInputs.cache
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.AssemblyInfo.cs
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.csproj.CoreCompileInputs.cache
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.dll
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/ref/UserClass.dll
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.pdb
+/home/polyon/Desktop/Programming/BassettiTraining2k22/C_Sharp/Test020422/Q!/UserClass/obj/Debug/net6.0/UserClass.genruntimeconfig.cache
